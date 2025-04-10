@@ -8,16 +8,6 @@ Tecnologias
 - Frontend: React (ou HTML/CSS/JS)
 - Infraestrutura: Docker, Docker Compose
 
-Estrutura
-
-PowerFit/
-├── backend/          API em Go
-├── frontend/         Interface Web
-├── redis/            Configuração Redis (opcional)
-├── docs/             Documentação técnica
-├── docker-compose.yml
-└── README.md
-
 Como Executar
 
 Pré-requisitos
